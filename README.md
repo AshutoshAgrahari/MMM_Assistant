@@ -1,2 +1,2 @@
 # MMM_Assistant
-This tool is about to generate marketing model
+This tool will help analyst to generate marketing research model.
